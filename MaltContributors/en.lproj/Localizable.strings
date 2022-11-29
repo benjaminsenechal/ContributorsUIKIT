@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  MaltContributors
+
+  Created by Benjamin Sénéchal on 27/10/2022.
+  
+*/
+
+"welcome_screen_title" = "Search for the most active contributors!";
+"welcome_screen_description" = "Type a topic in the search bar";
+"search_view_placeholder" = "Start typing...";
+"search_view_button_title" = "Search";
+"contributors_list_button_title" = "See profile";
+"header_view_label" = "Number of result for the current search:";
+"no_date_view_title" = "Ooops";
+"no_date_view_description" = "No user found for this topic, let’s search for something else!";
+"no_date_view_button" = "Back to search";
+"welcome_screen_title_max_repository" = "Max repositories";
+"welcome_screen_title_user_per_repository" = "Users per repository";
